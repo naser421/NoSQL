@@ -1,0 +1,19 @@
+{
+  "name": "nosql-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"There is currently no test specified\" && exit 1",
+    "watch": "nodemon server.js"
+  },
+  "author": "NASER SULEIMAN",
+  "license": "MIT",
+ 
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.27.0",
+    "mongoose": "^5.9.23",
+    "nodemon": "^2.0.4" 
+  }
+}
